@@ -12,14 +12,14 @@
 //   CONFIGURATION
 // ============================================================
 
-const char* ssid     = "WIFI - NAME";
-const char* password = "WIFI - PASSWORD";
+const char* ssid         = "WIFI - NAME";
+const char* password     = "WIFI - PASSWORD";
 
 #define SMTP_HOST        "smtp.gmail.com"
 #define SMTP_PORT        465
-#define AUTHOR_EMAIL     "napariyojana@gmail.com"
-#define AUTHOR_PASSWORD  "gwbd naku rgvk xvrr"
-#define RECIPIENT_EMAIL  "n.nagavenkat26@gmail.com"
+#define AUTHOR_EMAIL     "SENDER EMAIL"
+#define AUTHOR_PASSWORD  "APP PASSWORD"
+#define RECIPIENT_EMAIL  "RECIVER EMAIL"
 
 const char* SHEETS_URL =
   "SHEETS URL";
