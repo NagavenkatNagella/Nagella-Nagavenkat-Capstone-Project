@@ -12,8 +12,8 @@
 //   CONFIGURATION
 // ============================================================
 
-const char* ssid     = "Nani";
-const char* password = "1234567 ";
+const char* ssid     = "WIFI - NAME";
+const char* password = "WIFI - PASSWORD";
 
 #define SMTP_HOST        "smtp.gmail.com"
 #define SMTP_PORT        465
@@ -22,7 +22,7 @@ const char* password = "1234567 ";
 #define RECIPIENT_EMAIL  "n.nagavenkat26@gmail.com"
 
 const char* SHEETS_URL =
-  "https://script.google.com/macros/s/AKfycbwSMAYhpriGbn_jFsSjzy6WSJjZEkvq7l4gN2VPKHsAqcrCuYyZnPcDpWragGluBUy2/exec";
+  "SHEETS URL";
 
 const unsigned long SHEETS_LOG_INTERVAL = 15000UL;
 
